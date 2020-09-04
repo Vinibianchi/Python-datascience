@@ -1,2 +1,2 @@
 # Python-datascience
-teste
+Meus exercícios de DS em python 
